@@ -1,5 +1,5 @@
 {
-  "name": "create-npm-cmd",
+  "name": "akdev-test",
   "version": "1.0.0",
   "type": "module",
   "main": "./dist/cli.cjs",
