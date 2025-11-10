@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/amirkabiri/akdev-test/compare/v1.0.0...v1.0.1) (2025-11-10)
+
+### 🐛 Bug Fixes
+
+* package name ([c8772e4](https://github.com/amirkabiri/akdev-test/commit/c8772e483dca3d167560326bffd637f1cd95cb5a))
+
 ## 1.0.0 (2025-11-10)
 
 ### ✨ Features
